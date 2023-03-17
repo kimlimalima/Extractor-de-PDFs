@@ -33,5 +33,5 @@ https://kinsta.com/pt/blog/operadores-de-busca-do-google/
 É óbvio que ainda faltam diversas melhorias (risos), mas justamente por isso criei este repositório, além de divulgar um pouco do que faço, estou aberto a: Ajuda, Criticas e Orientações. Ademais, se chegou até este trecho do texto, meu muito obrigado.
 
 ### Frase motivacional:
-- O começo, é apenas o início.
-by Kim Lima.
+- "O começo, é apenas o início."    
+\- by Kim Lima.
