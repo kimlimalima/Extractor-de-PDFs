@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 
 import os, re, requests, time
 
-urls = []
+urls = ["https://www.google.com/search?q=%22naruto%22+filetype%3A+pdf&oq=%22naruto%22+filetype%3A+pdf&aqs=chrome..69i57.13079j0j7&sourceid=chrome&ie=UTF-8"]
 
 # Local que contém respectivamente o path da pasta que está sendo utilizada para testes do extractor e a pasta que está sendo alimentada com os pdf catalogados.
-pathPastaLocal = "/home/kimlima/development/Script-SVP/arquivosPDF"
+pathPastaLocal = input("insira o caminho da pasta que armazenará os arquivos: ")
 pause = time.sleep(1)
 
 # Captura dos links páginas de busca do google.
