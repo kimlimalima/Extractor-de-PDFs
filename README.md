@@ -1,4 +1,4 @@
-# Extractor-of-PDFs
+# Extrator de PDFs
 
 ## Introdução da Aplicação:
 
