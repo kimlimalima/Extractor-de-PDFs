@@ -1,2 +1,2 @@
-# Extractor-de-PDFs
-Extrator de PDFs
+# Extractor-of-PDFs
+Extrator of PDFs
