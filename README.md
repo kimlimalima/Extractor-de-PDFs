@@ -7,7 +7,8 @@
 ## Resumo da Aplicação:
 - Passo 1: Realização da pesquisa utilizando os operadores de busca.
 - Passo 2: Inserção da url/urls na lista que será percorrida.
-- Passo 3: Preparar um cafezinho.
+- Passo 3: Insersão do path da pasta a qual armazenará os arquivos.
+- Passo 3: Preparar um cafezinho, café é bom em qualquer momento.
 
 ## Exemplo de melhorias futuras:
 - Mais opções de extensões. Até o momento está realizando a extração de arquivos com extensão (PDF).
