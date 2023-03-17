@@ -1,4 +1,4 @@
-# SVP - Só Vapo nos PDFs
+# SVP - Só Vapo nos PDFs (por enquanto, apenas PDFs)
 
 ## Introdução da Aplicação:
 
