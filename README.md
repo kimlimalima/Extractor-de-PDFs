@@ -2,7 +2,7 @@
 
 ## Introdução da Aplicação:
 
-- Utilizando operadores especiais de busca em qualquer pode encontrar um resultado de pesquisa onde todos os links possuem arquivos com a extensão indicada com os assuntos solicitados pelo usuário na string de busca, algumas pessoas utilizam destes métodos para criar bases de dados para diversos fins, muitos destes fins são relacionados a pesquisa, visto isso foi desenvolvido um protótico para este fim (criação de uma base de dados), além de poder contribuir com pessoas que estejam precisando de algo parecido, estou realizando esse desenvolvimento para fins educacionais/hobby, o mesmo ainda necessita de mais implementações para se tornar ainda mais eficiente.
+- Utilizando operadores especiais de busca em qualquer buscador comum utilizados pela internet, você encontrará um resultado de pesquisa onde todos os links possuem arquivos com a extensão indicada com os assuntos solicitados pelo usuário na string de busca, algumas pessoas utilizam destes métodos para criar bases de dados para diversos fins, muitos destes fins são relacionados a pesquisa, visto isso foi desenvolvido um protótico para este fim (criação de uma base de dados), além de poder contribuir com pessoas que estejam precisando de algo parecido, estou realizando esse desenvolvimento para fins educacionais/hobby, o mesmo ainda necessita de mais implementações para se tornar ainda mais eficiente.
 
 ## Resumo da Aplicação:
 - Passo 1: Realização da pesquisa utilizando os operadores de busca.
